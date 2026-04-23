@@ -1,11 +1,14 @@
 # 👋 Pushpendra 
-💻 Full Stack Developer | Spring Boot | React | Microservices | Security
+💻 Full Stack Developer | Spring Boot | React | Microservices | Security | MySQL
 
 ## 🚀 Summary
 Backend developer with 6 months experience building **secure REST APIs** using Spring Boot. Strong in authentication, clean architecture, and scalable backend design.
 
 ## 🛠 Tech
-Java | Spring Boot | Spring Security | JWT | BCrypt | Microservices | MySQL | JPA | React (basic)
+Java | Spring Boot | REST APIs | Spring Security | JWT | BCrypt | RBAC | Microservices | MySQL | JPA | Hibernate | React | JavaScript | Redux
+
+**Tools & Others:**  
+Git, GitHub, Postman, Maven, VS Code
 
 ## 💼 Experience
 **Backend Developer (Project-Based)**  
@@ -16,11 +19,14 @@ Java | Spring Boot | Spring Security | JWT | BCrypt | Microservices | MySQL | JP
 
 ## 🚀 Project
 **🏥 Hospital Management System**  
-Secure role-based system with JWT authentication, appointment & patient management  
-👉 https://github.com/YOUR_USERNAME/
+Role-based full stack system with secure authentication and core healthcare features  
+- Admin, Doctor, Patient modules  
+- JWT login + BCrypt security  
+- Appointment & patient management  
+👉 https://github.com/pushpendra02thakur/doctor_pro
 
 ## 📫 Contact
 LinkedIn: https://linkedin.com/in/pushpendra02  
 Email: pushpendra02122004@gmail.com  
 ## ⚡ Strengths
-Secure APIs | Clean Code | Scalable Backend | Quick Learner
+Secure APIs | Full Stack Development | Clean Code | Scalable Systems
