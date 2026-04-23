@@ -7,9 +7,6 @@ Backend developer with 6 months experience building **secure REST APIs** using S
 ## 🛠 Tech
 Java | Spring Boot | REST APIs | Spring Security | JWT | BCrypt | RBAC | Microservices | MySQL | JPA | Hibernate | React | JavaScript | Redux
 
-**Tools & Others:**  
-Git, GitHub, Postman, Maven, VS Code
-
 ## 💼 Experience
 **Backend Developer (Project-Based)**  
 - Built REST APIs  
