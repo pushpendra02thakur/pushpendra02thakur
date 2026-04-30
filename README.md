@@ -18,7 +18,7 @@ Java | Spring Boot | REST APIs | Spring Security | JWT | BCrypt | RBAC | Microse
 ## 🚀 Project
 **🏥 Hospital Management System**  
 Role-based full stack system with secure authentication and core healthcare features  
-- Admin, Doctor, Patient modules  
+- Admin, Doctor, Patient modules, AI symptoms analysis
 - JWT login + BCrypt security + APIs Integration
 - Appointment & patient management  
 👉 https://github.com/pushpendra02thakur/doctor_pro
