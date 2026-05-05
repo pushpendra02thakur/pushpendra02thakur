@@ -27,4 +27,4 @@ Role-based full stack system with secure authentication and core healthcare feat
 LinkedIn: https://linkedin.com/in/pushpendra02  
 Email: pushpendra02122004@gmail.com  
 ## ⚡ Strengths
-Secure APIs | Full Stack Development | Clean Code | Scalable Systems
+Secure APIs | Full Stack Development | Clean Code | Scalable Systems | Resilient
