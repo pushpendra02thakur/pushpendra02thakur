@@ -10,7 +10,7 @@ Java | Spring Boot | REST APIs | Spring Security | JWT | BCrypt | RBAC | Microse
 ## 💼 Experience
 **Backend Developer (Project-Based)**  
 - AI API Integrated
-- Built REST APIs  
+- Built RESTful APIs  
 - Implemented JWT authentication  
 - Secured data using BCrypt  
 - Integrated backend with React  
