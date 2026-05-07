@@ -1,5 +1,5 @@
 # 👋 Pushpendra 
-💻 Full Stack Developer | Spring Boot | React | Microservices | Spring Security | MySQL | RESTful Web Services
+💻 Full Stack Developer | Spring Boot | React | Microservices | Spring Security | MySQL | RESTful API
 
 ## 🚀 Summary
 Backend developer with 6 months experience building **secure REST APIs** using Spring Boot. Strong in authentication, clean architecture, and scalable backend design.
